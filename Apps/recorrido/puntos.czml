@@ -27,8 +27,8 @@
 },{
     "id" : "point2",
     "availability" : "2017-08-04T10:00:00Z/2017-08-04T10:01:00Z",
-    "name" : "Centro Administrativo Distrital",
-    "description" : "Conocido en el bajo mundo como CAD",
+    "name" : "Estacion de Trasmilenio San Mateo",
+    "description" : "Ultima estacion de Trasmilenio hacia el Sur Ubicada en el municipio de Soacha. Actua como un Portal en este sector",
     "position" : {
         "epoch" : "2017-08-04T10:00:00Z",
         "cartographicDegrees" : [
@@ -50,8 +50,8 @@
 {
     "id" : "point3",
     "availability" : "2017-08-04T10:00:00Z/2017-08-04T10:01:00Z",
-    "name" : "Puente Aranda",
-    "description" : "Deriva su nombre del puente de la antigua hacienda de <b>Juan Aranda</b> sobre el <a href='https://es.wikipedia.org/wiki/Puente_Aranda'>río Chinúa</a>, hoy llamado río San Francisco, construida a finales del siglo XVI.<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Avenida_de_Las_Américas%2C_Bogotá.JPG/250px-Avenida_de_Las_Américas%2C_Bogotá.JPG'>",
+    "name" : "Estadio Luis Carlos Galan",
+    "description" : "Estadio municipal de Soacha hecho en honor al candidato a la presidencia Luis Carlos Galan Sarmiento asesinado en este municipio. Era la cancha oficial del equipo Tigres que en este momento debuta en la liga profecional del futbol Colombiano <a href='https://es.wikipedia.org/wiki/Puente_Aranda'></a><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Avenida_de_Las_Américas%2C_Bogotá.JPG/250px-Avenida_de_Las_Américas%2C_Bogotá.JPG'>",
     "position" : {
         "epoch" : "2017-08-04T10:00:00Z",
         "cartographicDegrees" : [
@@ -73,8 +73,536 @@
 {
     "id" : "point4",
     "availability" : "2017-08-04T10:00:00Z/2017-08-04T10:01:00Z",
-    "name" : "Humedal La Vaca (costado Norte)",
-    "description" : "Uno de los pocos que subsisten en la zona",
+    "name" : "Centro Comercial Unisur",
+    "description" : "Centro comercial mas antiguo del municipio de Soacha",
+    "position" : {
+        "epoch" : "2017-08-04T10:00:00Z",
+        "cartographicDegrees" : [
+            52,-74.20617699623108,4.584146417266372,20,
+            60,-74.20617699623108,4.584146417266372,20
+
+        ]
+    },
+    "point" : {
+        "color" : {
+            "rgba" : [255, 255, 255, 128]
+        },
+        "outlineColor" : {
+            "rgba" : [255, 0, 0, 128]
+        },
+        "outlineWidth" : 3,
+        "pixelSize" : 15
+    }
+},
+{
+    "id" : "point5",
+    "availability" : "2017-08-04T10:00:00Z/2017-08-04T10:01:00Z",
+    "name" : "Centro Comercial Mercurio",
+    "description" : "Uno de los mas emblematicos centros comerciales de Soacha y uno de los mas visitados",
+    "position" : {
+        "epoch" : "2017-08-04T10:00:00Z",
+        "cartographicDegrees" : [
+            52,-74.20617699623108,4.584146417266372,20,
+            60,-74.20617699623108,4.584146417266372,20
+
+        ]
+    },
+    "point" : {
+        "color" : {
+            "rgba" : [255, 255, 255, 128]
+        },
+        "outlineColor" : {
+            "rgba" : [255, 0, 0, 128]
+        },
+        "outlineWidth" : 3,
+        "pixelSize" : 15
+    }
+},
+{
+    "id" : "point6",
+    "availability" : "2017-08-04T10:00:00Z/2017-08-04T10:01:00Z",
+    "name" : "EASY Soacha ",
+    "description" : "Unico almacen de cadena EASY de Soacha",
+    "position" : {
+        "epoch" : "2017-08-04T10:00:00Z",
+        "cartographicDegrees" : [
+            52,-74.20617699623108,4.584146417266372,20,
+            60,-74.20617699623108,4.584146417266372,20
+
+        ]
+    },
+    "point" : {
+        "color" : {
+            "rgba" : [255, 255, 255, 128]
+        },
+        "outlineColor" : {
+            "rgba" : [255, 0, 0, 128]
+        },
+        "outlineWidth" : 3,
+        "pixelSize" : 15
+    }
+},
+{
+    "id" : "point7",
+    "availability" : "2017-08-04T10:00:00Z/2017-08-04T10:01:00Z",
+    "name" : "Comando Distrito Especial Soacha",
+    "description" : "Estacion de policias mas grande del municipio de Soacha",
+    "position" : {
+        "epoch" : "2017-08-04T10:00:00Z",
+        "cartographicDegrees" : [
+            52,-74.20617699623108,4.584146417266372,20,
+            60,-74.20617699623108,4.584146417266372,20
+
+        ]
+    },
+    "point" : {
+        "color" : {
+            "rgba" : [255, 255, 255, 128]
+        },
+        "outlineColor" : {
+            "rgba" : [255, 0, 0, 128]
+        },
+        "outlineWidth" : 3,
+        "pixelSize" : 15
+    }
+},
+{
+    "id" : "point8",
+    "availability" : "2017-08-04T10:00:00Z/2017-08-04T10:01:00Z",
+    "name" : "SENA Tecnoparque Complejo Cazuca",
+    "description" : "Sede del SENA ubicado en la zona de Cazuca",
+    "position" : {
+        "epoch" : "2017-08-04T10:00:00Z",
+        "cartographicDegrees" : [
+            52,-74.20617699623108,4.584146417266372,20,
+            60,-74.20617699623108,4.584146417266372,20
+
+        ]
+    },
+    "point" : {
+        "color" : {
+            "rgba" : [255, 255, 255, 128]
+        },
+        "outlineColor" : {
+            "rgba" : [255, 0, 0, 128]
+        },
+        "outlineWidth" : 3,
+        "pixelSize" : 15
+    }
+},
+{
+    "id" : "point9",
+    "availability" : "2017-08-04T10:00:00Z/2017-08-04T10:01:00Z",
+    "name" : "Parque Principal La Despensa",
+    "description" : "Parque principal de la zona de la Despensa",
+    "position" : {
+        "epoch" : "2017-08-04T10:00:00Z",
+        "cartographicDegrees" : [
+            52,-74.20617699623108,4.584146417266372,20,
+            60,-74.20617699623108,4.584146417266372,20
+
+        ]
+    },
+    "point" : {
+        "color" : {
+            "rgba" : [255, 255, 255, 128]
+        },
+        "outlineColor" : {
+            "rgba" : [255, 0, 0, 128]
+        },
+        "outlineWidth" : 3,
+        "pixelSize" : 15
+    }
+},
+{
+    "id" : "point10",
+    "availability" : "2017-08-04T10:00:00Z/2017-08-04T10:01:00Z",
+    "name" : "Jardines del Apogeo",
+    "description" : "Cementerio mas importante del Sur de Bogotá",
+    "position" : {
+        "epoch" : "2017-08-04T10:00:00Z",
+        "cartographicDegrees" : [
+            52,-74.20617699623108,4.584146417266372,20,
+            60,-74.20617699623108,4.584146417266372,20
+
+        ]
+    },
+    "point" : {
+        "color" : {
+            "rgba" : [255, 255, 255, 128]
+        },
+        "outlineColor" : {
+            "rgba" : [255, 0, 0, 128]
+        },
+        "outlineWidth" : 3,
+        "pixelSize" : 15
+    }
+},
+{
+    "id" : "point11",
+    "availability" : "2017-08-04T10:00:00Z/2017-08-04T10:01:00Z",
+    "name" : "Portal del Sur",
+    "description" : "Ultimo Portal de trasmilenio de la zona Sur de Bogotá",
+    "position" : {
+        "epoch" : "2017-08-04T10:00:00Z",
+        "cartographicDegrees" : [
+            52,-74.20617699623108,4.584146417266372,20,
+            60,-74.20617699623108,4.584146417266372,20
+
+        ]
+    },
+    "point" : {
+        "color" : {
+            "rgba" : [255, 255, 255, 128]
+        },
+        "outlineColor" : {
+            "rgba" : [255, 0, 0, 128]
+        },
+        "outlineWidth" : 3,
+        "pixelSize" : 15
+    }
+},
+{
+    "id" : "point12",
+    "availability" : "2017-08-04T10:00:00Z/2017-08-04T10:01:00Z",
+    "name" : "Jumbo, Metro",
+    "description" : "Almacenes de cadena de Jumbo y Metro ubicados en el Perdomo",
+    "position" : {
+        "epoch" : "2017-08-04T10:00:00Z",
+        "cartographicDegrees" : [
+            52,-74.20617699623108,4.584146417266372,20,
+            60,-74.20617699623108,4.584146417266372,20
+
+        ]
+    },
+    "point" : {
+        "color" : {
+            "rgba" : [255, 255, 255, 128]
+        },
+        "outlineColor" : {
+            "rgba" : [255, 0, 0, 128]
+        },
+        "outlineWidth" : 3,
+        "pixelSize" : 15
+    }
+},
+{
+    "id" : "point13",
+    "availability" : "2017-08-04T10:00:00Z/2017-08-04T10:01:00Z",
+    "name" : "Makro",
+    "description" : "Almacen de Cadena Makro situado en la Sevillana",
+    "position" : {
+        "epoch" : "2017-08-04T10:00:00Z",
+        "cartographicDegrees" : [
+            52,-74.20617699623108,4.584146417266372,20,
+            60,-74.20617699623108,4.584146417266372,20
+
+        ]
+    },
+    "point" : {
+        "color" : {
+            "rgba" : [255, 255, 255, 128]
+        },
+        "outlineColor" : {
+            "rgba" : [255, 0, 0, 128]
+        },
+        "outlineWidth" : 3,
+        "pixelSize" : 15
+    }
+},
+{
+    "id" : "point14",
+    "availability" : "2017-08-04T10:00:00Z/2017-08-04T10:01:00Z",
+    "name" : "Alkosto",
+    "description" : "Almacen de Cadena Alkosto ubicado en Venecia, antes del puente vehicular",
+    "position" : {
+        "epoch" : "2017-08-04T10:00:00Z",
+        "cartographicDegrees" : [
+            52,-74.20617699623108,4.584146417266372,20,
+            60,-74.20617699623108,4.584146417266372,20
+
+        ]
+    },
+    "point" : {
+        "color" : {
+            "rgba" : [255, 255, 255, 128]
+        },
+        "outlineColor" : {
+            "rgba" : [255, 0, 0, 128]
+        },
+        "outlineWidth" : 3,
+        "pixelSize" : 15
+    }
+},
+{
+    "id" : "point15",
+    "availability" : "2017-08-04T10:00:00Z/2017-08-04T10:01:00Z",
+    "name" : "Estacion de Trasmilenio General Santander",
+    "description" : "Estacion de trasmilenio ubicada al frente de la Escuela de Cadetes General Francisco de Paula Santander",
+    "position" : {
+        "epoch" : "2017-08-04T10:00:00Z",
+        "cartographicDegrees" : [
+            52,-74.20617699623108,4.584146417266372,20,
+            60,-74.20617699623108,4.584146417266372,20
+
+        ]
+    },
+    "point" : {
+        "color" : {
+            "rgba" : [255, 255, 255, 128]
+        },
+        "outlineColor" : {
+            "rgba" : [255, 0, 0, 128]
+        },
+        "outlineWidth" : 3,
+        "pixelSize" : 15
+    }
+},
+{
+    "id" : "point16",
+    "availability" : "2017-08-04T10:00:00Z/2017-08-04T10:01:00Z",
+    "name" : "Centro Comercial Centro Mayor",
+    "description" : "Centro comercial de gran importancia en la zona Sur de la ciudad de Bogotá y uno de los mas visitados",
+    "position" : {
+        "epoch" : "2017-08-04T10:00:00Z",
+        "cartographicDegrees" : [
+            52,-74.20617699623108,4.584146417266372,20,
+            60,-74.20617699623108,4.584146417266372,20
+
+        ]
+    },
+    "point" : {
+        "color" : {
+            "rgba" : [255, 255, 255, 128]
+        },
+        "outlineColor" : {
+            "rgba" : [255, 0, 0, 128]
+        },
+        "outlineWidth" : 3,
+        "pixelSize" : 15
+    }
+},
+{
+    "id" : "point17",
+    "availability" : "2017-08-04T10:00:00Z/2017-08-04T10:01:00Z",
+    "name" : "SENA Complejo Sur",
+    "description" : "Mas conocido en el bajo mundo como el SENA de la 30",
+    "position" : {
+        "epoch" : "2017-08-04T10:00:00Z",
+        "cartographicDegrees" : [
+            52,-74.20617699623108,4.584146417266372,20,
+            60,-74.20617699623108,4.584146417266372,20
+
+        ]
+    },
+    "point" : {
+        "color" : {
+            "rgba" : [255, 255, 255, 128]
+        },
+        "outlineColor" : {
+            "rgba" : [255, 0, 0, 128]
+        },
+        "outlineWidth" : 3,
+        "pixelSize" : 15
+    }
+},
+{
+    "id" : "point18",
+    "availability" : "2017-08-04T10:00:00Z/2017-08-04T10:01:00Z",
+    "name" : "Parque Santa Isabel Occidental",
+    "description" : "Parque ubicado en la zona de Santa Isabel y mas cercano a la Autopista Sur",
+    "position" : {
+        "epoch" : "2017-08-04T10:00:00Z",
+        "cartographicDegrees" : [
+            52,-74.20617699623108,4.584146417266372,20,
+            60,-74.20617699623108,4.584146417266372,20
+
+        ]
+    },
+    "point" : {
+        "color" : {
+            "rgba" : [255, 255, 255, 128]
+        },
+        "outlineColor" : {
+            "rgba" : [255, 0, 0, 128]
+        },
+        "outlineWidth" : 3,
+        "pixelSize" : 15
+    }
+},
+{
+    "id" : "point19",
+    "availability" : "2017-08-04T10:00:00Z/2017-08-04T10:01:00Z",
+    "name" : "Parque Tercer Milenio",
+    "description" : "Parque publico mas cercano al Centro de la Ciudad de Bogotá",
+    "position" : {
+        "epoch" : "2017-08-04T10:00:00Z",
+        "cartographicDegrees" : [
+            52,-74.20617699623108,4.584146417266372,20,
+            60,-74.20617699623108,4.584146417266372,20
+
+        ]
+    },
+    "point" : {
+        "color" : {
+            "rgba" : [255, 255, 255, 128]
+        },
+        "outlineColor" : {
+            "rgba" : [255, 0, 0, 128]
+        },
+        "outlineWidth" : 3,
+        "pixelSize" : 15
+    }
+},
+{
+    "id" : "point20",
+    "availability" : "2017-08-04T10:00:00Z/2017-08-04T10:01:00Z",
+    "name" : "Parque de la Independencia",
+    "description" : "Parque publico mas cercano a la Carrera 7 ubicado en la zona de San Diego",
+    "position" : {
+        "epoch" : "2017-08-04T10:00:00Z",
+        "cartographicDegrees" : [
+            52,-74.20617699623108,4.584146417266372,20,
+            60,-74.20617699623108,4.584146417266372,20
+
+        ]
+    },
+    "point" : {
+        "color" : {
+            "rgba" : [255, 255, 255, 128]
+        },
+        "outlineColor" : {
+            "rgba" : [255, 0, 0, 128]
+        },
+        "outlineWidth" : 3,
+        "pixelSize" : 15
+    }
+},
+{
+    "id" : "point21",
+    "availability" : "2017-08-04T10:00:00Z/2017-08-04T10:01:00Z",
+    "name" : "Planetario Distrital",
+    "description" : "Uno de los Planetarios mas importantes de Bogotá",
+    "position" : {
+        "epoch" : "2017-08-04T10:00:00Z",
+        "cartographicDegrees" : [
+            52,-74.20617699623108,4.584146417266372,20,
+            60,-74.20617699623108,4.584146417266372,20
+
+        ]
+    },
+    "point" : {
+        "color" : {
+            "rgba" : [255, 255, 255, 128]
+        },
+        "outlineColor" : {
+            "rgba" : [255, 0, 0, 128]
+        },
+        "outlineWidth" : 3,
+        "pixelSize" : 15
+    }
+},
+{
+    "id" : "point22",
+    "availability" : "2017-08-04T10:00:00Z/2017-08-04T10:01:00Z",
+    "name" : "Plaza de Toros La Santamaria",
+    "description" : "Plaza de toros de Bogotá y lugar mas despresiado por los defensores de los animales",
+    "position" : {
+        "epoch" : "2017-08-04T10:00:00Z",
+        "cartographicDegrees" : [
+            52,-74.20617699623108,4.584146417266372,20,
+            60,-74.20617699623108,4.584146417266372,20
+
+        ]
+    },
+    "point" : {
+        "color" : {
+            "rgba" : [255, 255, 255, 128]
+        },
+        "outlineColor" : {
+            "rgba" : [255, 0, 0, 128]
+        },
+        "outlineWidth" : 3,
+        "pixelSize" : 15
+    }
+},
+{
+    "id" : "point23",
+    "availability" : "2017-08-04T10:00:00Z/2017-08-04T10:01:00Z",
+    "name" : "Museo Nacional de Coombia",
+    "description" : "Uno de los museos mas emblematicos de la ciudad y del país",
+    "position" : {
+        "epoch" : "2017-08-04T10:00:00Z",
+        "cartographicDegrees" : [
+            52,-74.20617699623108,4.584146417266372,20,
+            60,-74.20617699623108,4.584146417266372,20
+
+        ]
+    },
+    "point" : {
+        "color" : {
+            "rgba" : [255, 255, 255, 128]
+        },
+        "outlineColor" : {
+            "rgba" : [255, 0, 0, 128]
+        },
+        "outlineWidth" : 3,
+        "pixelSize" : 15
+    }
+},
+{
+    "id" : "point24",
+    "availability" : "2017-08-04T10:00:00Z/2017-08-04T10:01:00Z",
+    "name" : "Parque Nacional Enrique Olaya Herrera",
+    "description" : "Mas conocido como el Parque Nacional, uno de los parques mas extensos de Bogotá y sitio de descanso de la mayoria de los universitarios de la zona",
+    "position" : {
+        "epoch" : "2017-08-04T10:00:00Z",
+        "cartographicDegrees" : [
+            52,-74.20617699623108,4.584146417266372,20,
+            60,-74.20617699623108,4.584146417266372,20
+
+        ]
+    },
+    "point" : {
+        "color" : {
+            "rgba" : [255, 255, 255, 128]
+        },
+        "outlineColor" : {
+            "rgba" : [255, 0, 0, 128]
+        },
+        "outlineWidth" : 3,
+        "pixelSize" : 15
+    }
+},
+{
+    "id" : "point25",
+    "availability" : "2017-08-04T10:00:00Z/2017-08-04T10:01:00Z",
+    "name" : "Pontificia Universidad Javeriana",
+    "description" : "Universidad privada mas cara y de uno de los mas grandes prestigios del país",
+    "position" : {
+        "epoch" : "2017-08-04T10:00:00Z",
+        "cartographicDegrees" : [
+            52,-74.20617699623108,4.584146417266372,20,
+            60,-74.20617699623108,4.584146417266372,20
+
+        ]
+    },
+    "point" : {
+        "color" : {
+            "rgba" : [255, 255, 255, 128]
+        },
+        "outlineColor" : {
+            "rgba" : [255, 0, 0, 128]
+        },
+        "outlineWidth" : 3,
+        "pixelSize" : 15
+    }
+},
+{
+    "id" : "point26",
+    "availability" : "2017-08-04T10:00:00Z/2017-08-04T10:01:00Z",
+    "name" : "Univesidad Distrital Francisco Jose de Caldas Facultad de Ingenieria y Sede Administrativa",
+    "description" : "Mas conocida por los estudiantes y directivos como Sede de la 40, una de las mejores universidades publicas y la envidia de las universidades privadas",
     "position" : {
         "epoch" : "2017-08-04T10:00:00Z",
         "cartographicDegrees" : [
@@ -94,5 +622,4 @@
         "pixelSize" : 15
     }
 }
-
 ]
